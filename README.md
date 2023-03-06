@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said</h1>
-<h3 align="center">A passionate Full Stack developer from Bolivia</h3>
+<h3 align="center">A passionate Full Stack developer from Bolivia, I currently live in Spain</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidgm" alt="saidgm" /></a> </p>
 
